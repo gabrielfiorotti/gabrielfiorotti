@@ -11,9 +11,11 @@
 
 - 📝  I’m always studying, trying to improve my knowledge and learn new skills.
 
-- 🚀  How to reach me: [personal website](https://gabrielfiorotti.github.io/PersonalWebsite/)
-
+- 🚀  How to reach me: gab.fiorotti@gmail.com
+  
 - 📍 Currently living in Brazil.
+
+- 💼 [Portifolio](https://gabrielfiorotti.github.io/PersonalWebsite/)
   
 <br>
 
