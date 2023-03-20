@@ -9,7 +9,7 @@
 
 - 🧑🏻‍💻 I’m currently working as a freelancer.
 
-- 📝  I’m always studying, trying to improve my skills and learn new things.
+- 📝  I’m always studying, trying to improve my knowledge and learn new skills.
 
 - 🚀  How to reach me: [personal website](https://gabrielfiorotti.github.io/PersonalWebsite/)
 
