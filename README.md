@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <hr>
 
-- 🧑🏻‍💻 I’m currently looking for a job.
+- 🧑🏻‍💻 I’m looking for a job.
 
 - 📝  I’m always studying, trying to improve my knowledge and learn new skills.
 
