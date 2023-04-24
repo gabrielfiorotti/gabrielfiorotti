@@ -9,7 +9,7 @@
 
 - 🧑🏻‍💻 I’m looking for a job.
 
-- 📝  I’m always studying, trying to improve my knowledge and learn new skills.
+- 📝  I’m always studying, trying to improve my knowledge and learn new skills. At the moment, learning React.
 
 - 🚀  How to reach me: gab.fiorotti@gmail.com
   
