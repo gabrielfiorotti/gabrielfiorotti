@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <hr>
 
-- 🧑🏻‍💻 I’m looking for a job.
+- 🧑🏻‍💻  Frontend Developer at [DEFEND](https://helpusdefend.com/)
 
 - 📝  I’m always studying, trying to improve my knowledge and learn new skills. At the moment, learning React.
 
