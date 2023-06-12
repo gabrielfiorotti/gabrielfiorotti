@@ -9,7 +9,7 @@
 
 - 🧑🏻‍💻  Frontend Developer at [DEFEND](https://helpusdefend.com/)
 
-- 📝  I’m always studying, trying to improve my knowledge and learn new skills. At the moment, learning React.
+- 📝  I’m always trying to improve my knowledge and learn new skills. At the moment, studying React.
 
 - 🚀  How to reach me: gab.fiorotti@gmail.com
   
