@@ -13,7 +13,7 @@
 
 - 🚀  How to reach me: gab.fiorotti@gmail.com
   
-- 📍 Currently living in Brazil.
+- 📍 Based in Ontario, Canada.
 
 - 💼 [Portifolio](https://gabrielfiorotti.github.io/PersonalWebsite/)
   
