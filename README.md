@@ -15,7 +15,6 @@
   
 - 📍 Based in Ontario, Canada.
 
-- 💼 [Portifolio](https://gabrielfiorotti.github.io/PersonalWebsite/)
   
 <br>
 
